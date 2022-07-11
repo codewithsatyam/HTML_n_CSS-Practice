@@ -1,2 +1,2 @@
 # HTML_n_CSS-Practice
-This repository consist code snippet of topics that I had learned during reading HTML and CSS by John Duckket.
+This repository consist code snippet and some small component that are required to build a website.
